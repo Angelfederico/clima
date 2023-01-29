@@ -9,7 +9,7 @@ function App() {
 
     <>
 
-      <h1>App que te dice el clima en tiempo real</h1>
+      <h1>App que te dice el clima en tiempo</h1>
     </>
   )
 }
