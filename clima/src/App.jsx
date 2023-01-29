@@ -6,7 +6,11 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <h1>App que te dice el clima en tiempo real</h1>
+
+    <>
+
+      <h1>App que te dice el clima en tiempo real</h1>
+    </>
   )
 }
 
