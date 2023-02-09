@@ -8,8 +8,10 @@ function App() {
   return (
 
 
+    <>
 
-    <h1>App que te dice el clima en tiempo</h1>
+      <h1>App que te dice el clima en tiempo</h1>
+    </>
 
 
   )
